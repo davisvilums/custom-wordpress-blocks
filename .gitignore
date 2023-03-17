@@ -1,0 +1,41 @@
+# Node.js dependencies
+/node_modules
+
+# Build output
+/build
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+*.log
+*.swp
+*.swo
+*.sublime*
+*.iml
+.idea/
+.vscode/
+
+# Temporary and cache files
+*.bak
+*.cache
+*.tmp
+*.sass-cache
+*.scss-cache
+*.swp
+*.lock
+*.bak
+*.orig
+
+# Yarn integrity file
+.yarn-integrity
+
+# Package manager lock files
+yarn.lock
+package-lock.json
+
+# Misc
+.editorconfig
+.prettierignore
+.prettierrc
